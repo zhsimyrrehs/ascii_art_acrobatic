@@ -1,0 +1,2 @@
+art==5.9
+customtkinter==5.1.3
